@@ -82,5 +82,3 @@ West: ₹2,123,922
 
 ---
 
-## 👨‍💻 Author
-Akshay Wagh
